@@ -1,0 +1,24 @@
+sw_volume: 100
+audio_device_state:1:my_fifo
+audio_device_state:1:ALSA Output
+state: play
+current: 8
+time: 159.431000
+random: 0
+repeat: 1
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3
+1:playlists/Pierre Bourne/Pi'erre Bourne - Try Again-AOf_xZtSAK8.mp3
+2:playlists/Pierre Bourne/Pierre Bourne - athlete (prod. Pierre Bourne)-Jy7qp0iBxqA.mp3
+3:playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3
+4:playlists/Pierre Bourne/Pierre Bourne - Instagram hoes [ real best version ]-WSiDX-EFZDY.mp3
+5:playlists/Pierre Bourne/Pierre bourne - no cap_switch sides_in my hand_over (LQ) 12_29-4mHmFiDknNI.mp3
+6:playlists/Pierre Bourne/Pierre Bourne - Step dad (unreleased)-c_pgv9rNIEk.mp3
+7:playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3
+8:playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3
+playlist_end
