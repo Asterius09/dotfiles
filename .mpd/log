@@ -1,0 +1,634 @@
+Feb 08 21:14 : exception: Failed to open '/home/asterius/.mpd/state': No such file or directory
+Feb 08 21:20 : update: added playlists/nightcore-cs/Aqua - CandyMan (Nightcore).mp3
+Feb 08 21:21 : exception: Bad song index
+Feb 08 21:40 : update: removing playlists/nightcore-cs/Aqua - CandyMan (Nightcore).mp3
+Feb 08 21:40 : update: added /Aqua - CandyMan (Nightcore).mp3
+Feb 08 22:06 : exception: Failed to commit /home/asterius/.mpd/state: File exists
+Feb 08 22:06 : exception: Failed to commit /home/asterius/.mpd/state: File exists
+Feb 08 22:09 : mixer: Failed to read mixer for 'ALSA Output': snd_mixer_load() failed: Invalid argument
+Feb 08 22:12 : mixer: Failed to read mixer for 'ALSA Output': snd_mixer_load() failed: Invalid argument
+Feb 08 22:15 : mixer: Failed to read mixer for 'ALSA Output': snd_mixer_load() failed: Invalid argument
+Feb 08 22:17 : mixer: Failed to read mixer for 'ALSA Output': snd_mixer_load() failed: Invalid argument
+Feb 09 03:30 : mixer: Failed to read mixer for 'ALSA Output': snd_mixer_load() failed: Invalid argument
+Feb 09 03:32 : mixer: Failed to read mixer for 'ALSA Output': snd_mixer_load() failed: Invalid argument
+Feb 09 03:32 : update: removing Aqua - CandyMan (Nightcore).mp3
+Feb 09 03:32 : update: added /Aqua - Candyman.mp3
+Feb 09 03:34 : mixer: Failed to read mixer for 'ALSA Output': snd_mixer_load() failed: Invalid argument
+Feb 09 03:39 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+Feb 09 09:15 : update: removing Aqua - Candyman.mp3
+Feb 09 09:16 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:17 : exception: Failed to decode /home/asterius/music/Aqua - Candyman.mp3; Failed to open '/home/asterius/music/Aqua - Candyman.mp3': No such file or directory
+Feb 09 09:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:18 : update: added /Aqua - Candyman.mp3
+Feb 09 09:21 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:24 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:27 : player: played "Aqua - Candyman.mp3"
+Feb 09 09:31 : player: played "Aqua - Candyman.mp3"
+Feb 09 10:55 : player: played "Aqua - Candyman.mp3"
+Feb 09 10:59 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:02 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:05 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:08 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:11 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:14 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:17 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:21 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:24 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:27 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:30 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:33 : player: played "Aqua - Candyman.mp3"
+Feb 09 11:36 : player: played "Aqua - Candyman.mp3"
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 01 Hiraeth I.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 13 Tｈｅ Hａｎｇｉnｇ Gａｒｄｅｎ.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 19 Aquascaping ピラミッド.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 04 Online Office V4.20.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 06 info@maneki-neko.net.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 15 Umbrella ☂ Foundation.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 07 羽雨APPLE abc.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 24 Hiraeth II.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 17 ▒▓ｍａｄｏｂｅ ガールフレンド.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 10 【Twin Palms】.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 21 Sky Lounge 〽ぺ.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 08 「庭」.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 22 ・おやすみ・.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 18 Ａｎｔｅｎｎａ Ｒｅｓｅａｒｃｈ.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 05 iColluseum 山Dew.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 02 Ａ５００ 〔緑死〕GenSys.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 23 LacunaLife.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 11 春 Ｐｌａｚａ.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 12 Ｅｄｅｎ Ｔｒａｎｓｉｔ.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 16 ̬VERNE ↹ Flights̙.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 09 ☆Turtle Islands☀.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 14 臨海都市ボーダム ５２ アロエ.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3
+Feb 09 12:21 : update: added playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 20 Ｍａｒｂｌｅ ｆｏｕｎｔａｉｎ.mp3
+Feb 09 12:26 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 12:28 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 12:30 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 12:33 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 12:35 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 12:38 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 12:40 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 12:44 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 18 Ａｎｔｅｎｎａ Ｒｅｓｅａｒｃｈ.mp3"
+Feb 09 12:46 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 18 Ａｎｔｅｎｎａ Ｒｅｓｅａｒｃｈ.mp3"
+Feb 09 12:49 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 18 Ａｎｔｅｎｎａ Ｒｅｓｅａｒｃｈ.mp3"
+Feb 09 12:53 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 18 Ａｎｔｅｎｎａ Ｒｅｓｅａｒｃｈ.mp3"
+Feb 09 12:54 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+Feb 09 12:59 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 18 Ａｎｔｅｎｎａ Ｒｅｓｅａｒｃｈ.mp3"
+Feb 09 13:00 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 09 13:03 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 09 13:03 : exception: Failed to open audio output
+Feb 09 13:05 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 13:13 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 16 ̬VERNE ↹ Flights̙.mp3"
+Feb 09 13:15 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 16 ̬VERNE ↹ Flights̙.mp3"
+Feb 09 15:38 : player: played "Aqua - Candyman.mp3"
+Feb 09 18:04 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+Feb 09 18:05 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 16 ̬VERNE ↹ Flights̙.mp3"
+Feb 09 18:05 : exception: Not playing
+Feb 09 18:05 : exception: Not playing
+Feb 09 18:08 : update: updating /Aqua - Candyman.mp3
+Feb 09 18:09 : player: played "Aqua - Candyman.mp3"
+Feb 09 18:13 : player: played "Aqua - Candyman.mp3"
+Feb 09 18:15 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 18:25 : player: played "Aqua - Candyman.mp3"
+Feb 09 18:28 : player: played "Aqua - Candyman.mp3"
+Feb 09 18:43 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 18:46 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 18:48 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 18:50 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 18:53 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 18:55 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 18:57 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 18:59 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:02 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:04 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:06 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:08 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:11 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:13 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:15 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:17 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:20 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:22 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:24 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:27 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:29 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:31 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:33 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:41 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:43 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:45 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:48 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:50 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:52 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 19:56 : player: played "Aqua - Candyman.mp3"
+Feb 09 19:59 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:02 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:06 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:09 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:12 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:15 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:18 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:21 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:24 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:28 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:31 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:34 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:37 : player: played "Aqua - Candyman.mp3"
+ALSA lib confmisc.c:855:(parse_card) cannot find card '0'
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_card_inum returned error: No such file or directory
+ALSA lib confmisc.c:422:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1334:(snd_func_refer) error evaluating name
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5701:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2664:(snd_pcm_open_noupdate) Unknown PCM default
+Feb 09 20:37 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 09 20:37 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+Feb 09 20:38 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:38 : output: Failed to open mixer for 'ALSA Output': no such mixer control: PCM
+Feb 09 20:39 : output: Failed to open mixer for 'ALSA Output': no such mixer control: PCM
+Feb 09 20:41 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:44 : player: played "Aqua - Candyman.mp3"
+Feb 09 20:49 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 09 20:50 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+ALSA lib confmisc.c:855:(parse_card) cannot find card '0'
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_card_inum returned error: No such file or directory
+ALSA lib confmisc.c:422:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1334:(snd_func_refer) error evaluating name
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5701:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2664:(snd_pcm_open_noupdate) Unknown PCM default
+Feb 10 07:54 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 10 07:55 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+ALSA lib confmisc.c:855:(parse_card) cannot find card '0'
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_card_inum returned error: No such file or directory
+ALSA lib confmisc.c:422:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1334:(snd_func_refer) error evaluating name
+ALSA lib conf.c:5178:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5701:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2664:(snd_pcm_open_noupdate) Unknown PCM default
+Feb 10 07:55 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 10 07:56 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+Feb 10 07:57 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 07:57 : output: Failed to open mixer for 'ALSA Output': no such mixer control: PCM
+Feb 10 07:58 : output: Failed to open mixer for 'ALSA Output': no such mixer control: PCM
+Feb 10 07:58 : output: Failed to open mixer for 'ALSA Output': no such mixer control: PCM
+Feb 10 08:01 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:03 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:05 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:07 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:10 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:12 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:14 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:16 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:19 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:21 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:23 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:25 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:28 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:30 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:32 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:35 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:37 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:39 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 08:42 : player: played "Aqua - Candyman.mp3"
+Feb 10 08:45 : player: played "Aqua - Candyman.mp3"
+Feb 10 08:48 : player: played "Aqua - Candyman.mp3"
+Feb 10 08:52 : player: played "Aqua - Candyman.mp3"
+Feb 10 08:55 : player: played "Aqua - Candyman.mp3"
+Feb 10 08:58 : player: played "Aqua - Candyman.mp3"
+Feb 10 09:29 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 09:31 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 09:34 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 09:36 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 09:38 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 09:40 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 14:52 : mixer: Failed to read mixer for 'ALSA Output': snd_mixer_load() failed: Invalid argument
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 10 14:53 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 10 14:53 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 10 14:54 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 10 14:54 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 10 14:54 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 10 14:56 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 14:57 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+Feb 10 14:59 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:01 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:03 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:06 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:08 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:10 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:12 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:15 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:17 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:19 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:21 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:24 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:26 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+Feb 10 15:27 : mixer: Failed to set mixer for 'ALSA Output': failed to set ALSA volume: Operation not permitted
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 10 15:27 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 10 15:27 : exception: Failed to open audio output
+Feb 10 15:30 : player: played "Aqua - Candyman.mp3"
+Feb 10 18:49 : player: played "Aqua - Candyman.mp3"
+Feb 10 18:53 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 18:55 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 18:57 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 18:59 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 19:04 : player: played "Aqua - Candyman.mp3"
+Feb 10 19:08 : player: played "Aqua - Candyman.mp3"
+Feb 10 19:11 : player: played "Aqua - Candyman.mp3"
+Feb 10 19:14 : player: played "Aqua - Candyman.mp3"
+Feb 10 19:19 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 03 Emerald 都市 2070.mp3"
+Feb 10 20:03 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 16 ̬VERNE ↹ Flights̙.mp3"
+Feb 10 20:05 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 16 ̬VERNE ↹ Flights̙.mp3"
+Feb 10 20:07 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 16 ̬VERNE ↹ Flights̙.mp3"
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pierre Bourne - athlete (prod. Pierre Bourne)-Jy7qp0iBxqA.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pierre Bourne - Step dad (unreleased)-c_pgv9rNIEk.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pi'erre Bourne - 4U (Official Music Video)-mV30rcc30o4.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pierre Bourne - Instagram hoes [ real best version ]-WSiDX-EFZDY.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pi'erre Bourne - Michael Phelps (Official Music Video)---ASOotWk1E.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pierre bourne - no cap_switch sides_in my hand_over (LQ) 12_29-4mHmFiDknNI.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3
+Feb 10 22:47 : update: added playlists/Pierre Bourne/Pi'erre Bourne - Try Again-AOf_xZtSAK8.mp3
+Feb 10 22:48 : player: played "playlists/Vaporwave/Cat System Corp/猫 シ Corp. - HIRAETH - 16 ̬VERNE ↹ Flights̙.mp3"
+Feb 10 22:49 : update: updating playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3
+Feb 10 22:50 : update: updating playlists/Pierre Bourne/Pi'erre Bourne - Try Again-AOf_xZtSAK8.mp3
+Feb 10 22:50 : update: updating playlists/Pierre Bourne/Pierre Bourne - athlete (prod. Pierre Bourne)-Jy7qp0iBxqA.mp3
+Feb 10 22:50 : update: updating playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3
+Feb 10 22:50 : update: updating playlists/Pierre Bourne/Pierre Bourne - Instagram hoes [ real best version ]-WSiDX-EFZDY.mp3
+Feb 10 22:51 : update: updating playlists/Pierre Bourne/Pierre bourne - no cap_switch sides_in my hand_over (LQ) 12_29-4mHmFiDknNI.mp3
+Feb 10 22:51 : update: updating playlists/Pierre Bourne/Pierre Bourne - Step dad (unreleased)-c_pgv9rNIEk.mp3
+Feb 10 22:51 : update: updating playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3
+Feb 10 22:52 : update: updating playlists/Pierre Bourne/Pierre Bourne - athlete (prod. Pierre Bourne)-Jy7qp0iBxqA.mp3
+Feb 10 22:52 : update: updating playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3
+Feb 10 22:52 : update: updating playlists/Pierre Bourne/Pierre Bourne - Instagram hoes [ real best version ]-WSiDX-EFZDY.mp3
+Feb 10 22:53 : update: updating playlists/Pierre Bourne/Pierre bourne - no cap_switch sides_in my hand_over (LQ) 12_29-4mHmFiDknNI.mp3
+Feb 10 22:53 : update: updating playlists/Pierre Bourne/Pierre Bourne - Step dad (unreleased)-c_pgv9rNIEk.mp3
+Feb 10 22:53 : update: updating playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3
+Feb 10 22:54 : update: updating playlists/Pierre Bourne/Pierre bourne - no cap_switch sides_in my hand_over (LQ) 12_29-4mHmFiDknNI.mp3
+Feb 10 22:54 : update: updating playlists/Pierre Bourne/Pierre Bourne - Instagram hoes [ real best version ]-WSiDX-EFZDY.mp3
+Feb 10 22:54 : update: updating playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3
+Feb 10 22:54 : update: updating playlists/Pierre Bourne/Pierre Bourne - athlete (prod. Pierre Bourne)-Jy7qp0iBxqA.mp3
+Feb 10 22:54 : update: updating playlists/Pierre Bourne/Pi'erre Bourne - Try Again-AOf_xZtSAK8.mp3
+Feb 10 22:54 : update: updating playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3
+Feb 10 22:54 : update: updating playlists/Pierre Bourne/Pi'erre Bourne - Michael Phelps (Official Music Video)---ASOotWk1E.mp3
+Feb 10 22:55 : update: updating playlists/Pierre Bourne/Pi'erre Bourne - 4U (Official Music Video)-mV30rcc30o4.mp3
+Feb 10 22:56 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+Feb 11 00:16 : player: played "playlists/Pierre Bourne/Pierre Bourne - Step dad (unreleased)-c_pgv9rNIEk.mp3"
+Feb 11 00:19 : player: played "playlists/Pierre Bourne/Pierre Bourne - Step dad (unreleased)-c_pgv9rNIEk.mp3"
+Feb 11 16:14 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+Feb 11 16:22 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3"
+Feb 11 16:26 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3"
+Feb 11 16:30 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3"
+Feb 11 16:37 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3"
+Feb 11 16:58 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:00 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:01 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:03 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:05 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:07 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:09 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:11 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:11 : exception: Not playing
+Feb 11 17:11 : exception: Not playing
+Feb 11 17:11 : exception: Not playing
+Feb 11 17:11 : exception: Not playing
+Feb 11 17:11 : exception: Not playing
+Feb 11 17:15 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+Feb 11 17:24 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : exception: Not playing
+Feb 11 17:24 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 11 17:30 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+Feb 11 17:32 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+Feb 11 17:40 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+Feb 11 17:44 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+Feb 11 17:47 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 17:47 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 17:47 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 17:48 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 17:48 : exception: Failed to open audio output
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 17:48 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 17:51 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 17:51 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 17:54 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 17:54 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 17:54 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 17:58 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 17:58 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:01 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:01 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:05 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:05 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:08 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:08 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:12 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:12 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:15 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:15 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:18 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:18 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:22 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:22 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:25 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:25 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:29 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:29 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:32 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:32 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:36 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:36 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:39 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:39 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:43 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:43 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:46 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:46 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:49 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:49 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:53 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:53 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 18:56 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 18:56 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:00 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:00 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:03 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:03 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:07 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:07 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:10 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:10 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:13 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:13 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:17 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:17 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:20 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:20 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:24 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:27 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:27 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:31 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:31 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:34 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:34 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:38 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:38 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:41 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:41 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:44 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:44 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:48 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:48 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:50 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 19:50 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 19:51 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 21:33 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 21:36 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Try Again-AOf_xZtSAK8.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 11 23:26 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 11 23:29 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Playstation (Unreleased)-oGc3d1N2P_g.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 12 01:32 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 12 01:35 : player: played "playlists/Pierre Bourne/Pi'erre Bourne - Try Again-AOf_xZtSAK8.mp3"
+Feb 12 07:02 : player: played "playlists/Pierre Bourne/Pierre Bourne - athlete (prod. Pierre Bourne)-Jy7qp0iBxqA.mp3"
+Feb 12 07:19 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 12 09:52 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 12 10:09 : player: played "playlists/Pierre Bourne/Pierre Bourne - athlete (prod. Pierre Bourne)-Jy7qp0iBxqA.mp3"
+Feb 12 10:10 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 12 10:16 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 12 10:16 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 12 10:18 : player: played "playlists/Pierre Bourne/Pierre Bourne - athlete (prod. Pierre Bourne)-Jy7qp0iBxqA.mp3"
+Feb 12 10:18 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3"
+Feb 12 10:22 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 12 10:30 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 12 10:34 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram Hoes _W_ Added Freestyle_(LQ)-BU7Bc9fBJPs.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 12 11:56 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 12 11:56 : exception: Failed to open audio output
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 12 13:31 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 12 13:33 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram hoes [ real best version ]-WSiDX-EFZDY.mp3"
+Feb 12 19:02 : player: played "playlists/Pierre Bourne/Pierre bourne - no cap_switch sides_in my hand_over (LQ) 12_29-4mHmFiDknNI.mp3"
+Feb 13 07:32 : mixer: Failed to read mixer for 'ALSA Output': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 13 13:15 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 13 13:15 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 13 13:15 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Feb 13 13:15 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": No such file or directory
+Feb 13 13:15 : exception: Failed to open audio output
+Feb 13 13:15 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram hoes [ real best version ]-WSiDX-EFZDY.mp3"
+Feb 13 13:16 : player: played "playlists/Pierre Bourne/Pierre Bourne - Instagram hoes [ real best version ]-WSiDX-EFZDY.mp3"
+Feb 13 13:19 : player: played "playlists/Pierre Bourne/Pierre Bourne - Wild N Out_ Nick Cannon (TLOP5 Leak) (LQ)-FSgeD2Y--tk.mp3"
+Feb 13 13:20 : update: added playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3
+Feb 13 13:20 : update: added playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.m4a
+Feb 13 13:20 : update: removing playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.m4a
+Feb 13 13:20 : update: updating playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3
+Feb 13 13:23 : update: updating playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3
+Feb 13 14:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 13 14:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 13 14:08 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 13 14:08 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 13 14:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 13 14:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 13 14:09 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:23 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 14:23 : exception: Not playing
+Feb 13 14:23 : exception: Not playing
+Feb 13 14:23 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:24 : exception: Failed to open audio output
+Feb 13 14:25 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:32 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 14:32 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:41 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 14:41 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:50 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 14:50 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 14:58 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 14:58 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 15:07 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 15:07 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 15:15 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 15:15 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 15:24 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 15:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 15:32 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 15:32 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 15:41 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 15:41 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 15:50 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 15:50 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 15:58 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 15:58 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 16:07 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 16:07 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 16:15 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 16:15 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 16:24 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 16:24 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Feb 13 16:32 : player: played "playlists/Pierre Bourne/Pierre Bourne IG Live TLOP 4_5 Snippets-L_OENotn1Tg.mp3"
+Feb 13 16:32 : exception: Failed to open "ALSA Output" (alsa); Failed to open ALSA device "default": Device or resource busy
